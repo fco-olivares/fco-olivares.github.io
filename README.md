@@ -13,7 +13,7 @@ Revise and resubmit, Estudios Públicos.
 with Carlos Madeira. 2021.  
 Mimeo, Central Bank of Chile.
 2. [Intermediario financiero no bancario como proveedor de financiamiento al sistema bancario: un modelo DSGE](https://fco-olivares.github.io/ap/nbfi_dsge.pdf)
-2021.    
+2021.  
 Thesis to obtain the Master's degree.
 
 ## Research assistant
