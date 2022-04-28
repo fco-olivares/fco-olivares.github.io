@@ -5,7 +5,7 @@
 with Marcos Singer. 2022.  
 Revise and resubmit, Journal of Safety Research.
 2. [Propuesta de Calificación y Continuidad de Tratamiento de Enfermedades Eventualmente Laborales](https://fco-olivares.github.io/wp/cct_eel.pdf)  
-with Marcos Singer. 2021. In Spanish.
+with Marcos Singer. 2021. In Spanish.  
 Revise and resubmit, Estudios Públicos.
 
 ## Academic papers
