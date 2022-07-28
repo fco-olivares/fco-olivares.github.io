@@ -4,7 +4,7 @@
 1. [Occupational safety climate as a COVID-19 mitigant: a dynamic fractional response panel analysis](https://fco-olivares.github.io/wp/sc_covid.pdf)  
 with Marcos Singer. 2022.  
 Revise and resubmit, Journal of Safety Research.
-2. [Proposal for Qualification and Continuity of Treatment of Eventual Occupational Diseases](https://fco-olivares.github.io/wp/cct_eel.pdf)  
+2. [Proposal for an Autonomous Qualifying Commission for the Chilean Labor Insurance System](https://fco-olivares.github.io/wp/cct_eel.pdf)  
 with Marcos Singer. 2021. In Spanish.  
 Revise and resubmit, Estudios Públicos.
 
