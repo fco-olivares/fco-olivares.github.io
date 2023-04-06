@@ -1,6 +1,6 @@
 # Francisco Olivares
 
-M.A. Applied Economics Pontifical Catholic University of Chile
+M.A. Applied Economics Pontifical Catholic University of Chile  
 [Curriculum vitae](https://fco-olivares.github.io/CV.pdf) 
 
 ## Research Papers
