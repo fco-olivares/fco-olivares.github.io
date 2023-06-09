@@ -27,4 +27,8 @@ Thesis to obtain the Master's degree. 2021. In Spanish.
 1. [A second wage for Chile](https://fco-olivares.github.io/nc/C_ssSQM_LS.pdf)  
 with Marcos Singer. 2023. In Spanish.  
 Published in the newspaper La Segunda. 28 March 2023. Page 11.
+2. [Sharing the lithium boom](https://fco-olivares.github.io/nc/C_cblSQM_LS.pdf)  
+with Marcos Singer. 2023. In Spanish.  
+Published in the newspaper La Segunda. 25 April 2023. Page 9.
+
 
