@@ -1,7 +1,6 @@
 # Francisco Olivares
 
-M.A. Applied Economics Pontifical Catholic University of Chile  
-[Curriculum vitae](https://fco-olivares.github.io/CV.pdf) 
+M.A. Applied Economics Pontifical Catholic University of Chile
 
 ## Research Papers
 1. [Proposal for an Autonomous Qualifying Commission for the Chilean Labor Insurance System](https://doi.org/10.38178/07183089/2154220112)  
@@ -11,7 +10,6 @@ Estudios Públicos, (169), 121-153.
 ## Working Papers
 1. [Determinants of the adoption of air conditioning systems: an application to Chile's Wood-Burning Heaters Replacement Program](https://fco-olivares.github.io/wp/adoption_acs.pdf)  
 with Aracelly Zárate, Fernando Vera and Elizabeth Saenz. 2023.
-Under review in Journal of Environmental Economics and Policy.
 2. [Lessons Learned from Chile's Wood-Burning Heaters Replacement Program](https://fco-olivares.github.io/wp/cs_heaters.pdf)  
 with Elizabeth Saenz, Giselle Astudillo and Víctor Muñoz. 2023.
 Under review in Case Studies in the Environment.
