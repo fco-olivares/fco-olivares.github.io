@@ -1,34 +1,32 @@
-## Research Papers
-1. [**Proposal for an Autonomous Qualifying Commission for the Chilean Labor Insurance System**](https://doi.org/10.38178/07183089/2154220112)  
-with Marcos Singer. 2023. In Spanish.
+## Artículos de investigación
+1. [**Propuesta de comisión calificadora autónoma para el seguro laboral chileno**](https://doi.org/10.38178/07183089/2154220112)  
+con Marcos Singer. 2023.
 Estudios Públicos, (169), 121-153.
 
-## Working Papers
+## Documentos de trabajo
 1. [**Determinants of the adoption of air conditioning systems: an application to Chile's Wood-Burning Heaters Replacement Program**](https://fco-olivares.github.io/wp/adoption_acs.pdf)  
-with Aracelly Zárate, Fernando Vera and Elizabeth Saenz. 2023.
+con Aracelly Zárate, Fernando Vera y Elizabeth Saenz. 2023.
 2. [**Lessons Learned from Chile's Wood-Burning Heaters Replacement Program**](https://fco-olivares.github.io/wp/cs_heaters.pdf)  
-with Elizabeth Saenz, Giselle Astudillo and Víctor Muñoz. 2023.  
+con Elizabeth Saenz, Giselle Astudillo y Víctor Muñoz. 2023.  
 Revise and resubmit in Case Studies in the Environment.
 3. [**Occupational safety climate as a COVID-19 mitigant: a dynamic fractional response panel analysis**](https://fco-olivares.github.io/wp/sc_covid.pdf)  
-with Marcos Singer. 2022.
-
-## Academic Papers
-1. [**The evolution of macroprudential policy use in Chile**](https://fco-olivares.github.io/ap/mp_chile.pdf)  
-with Carlos Madeira. 2021.  
+con Marcos Singer. 2022.
+4. [**The evolution of macroprudential policy use in Chile**](https://fco-olivares.github.io/ap/mp_chile.pdf)  
+con Carlos Madeira. 2021.  
 Mimeo, Central Bank of Chile.
-2. [**Non-bank financial intermediary as a provider of financing to the banking system: a DSGE model**](https://fco-olivares.github.io/ap/nbfi_dsge.pdf)  
-Thesis to obtain the Master's degree. 2021. In Spanish.  
+5. [**Intermediario financiero no bancario como proveedor de financiamiento al sistema bancario: un modelo DSGE**](https://fco-olivares.github.io/ap/nbfi_dsge.pdf)  
+Tesis para optar al grado de Máster. 2021.  
 
-## Columns
-1. [**How to maximize lithium revenues?**](https://fco-olivares.github.io/nc/C_maxrecSQM_EM.pdf)  
-with Gustavo Lagos and Marcos Singer. 2023. In Spanish.  
-Published in the newspaper El Mercurio. 29 July 2023. Page 2.
-2. [**Sharing the lithium boom**](https://fco-olivares.github.io/nc/C_cblSQM_LS.pdf)  
-with Marcos Singer. 2023. In Spanish.  
-Published in the newspaper La Segunda. 25 April 2023. Page 9.
-3. [**A second wage for Chile**](https://fco-olivares.github.io/nc/C_ssSQM_LS.pdf)  
-with Marcos Singer. 2023. In Spanish.  
-Published in the newspaper La Segunda. 28 March 2023. Page 11.
+## Columnas
+1. [**¿Cómo maximizar la recaudación del litio?**](https://fco-olivares.github.io/nc/C_maxrecSQM_EM.pdf)  
+con Gustavo Lagos y Marcos Singer. 2023.  
+Publicado en el periódico El Mercurio. 29 de julio de 2023. Página 2.
+2. [**Compartiendo la bonanza del litio**](https://fco-olivares.github.io/nc/C_cblSQM_LS.pdf)  
+con Marcos Singer. 2023.  
+Publicado en el periódico La Segunda. 25 de abril de 2023. Página 9.
+3. [**Un segundo sueldo para Chile**](https://fco-olivares.github.io/nc/C_ssSQM_LS.pdf)  
+con Marcos Singer. 2023. 
+Publicado en el periódico La Segunda. 28 de marzo de 2023. Página 11.
 
 
 
