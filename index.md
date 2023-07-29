@@ -1,7 +1,3 @@
-# Francisco Olivares
-
-M.A. Applied Economics Pontifical Catholic University of Chile
-
 ## Research Papers
 1. [Proposal for an Autonomous Qualifying Commission for the Chilean Labor Insurance System](https://doi.org/10.38178/07183089/2154220112)  
 with Marcos Singer. 2023. In Spanish.
