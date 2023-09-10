@@ -1,65 +1,34 @@
-# bulma-clean-theme
+# Francisco Olivares
 
-[![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
-![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
+M.A. Applied Economics Pontifical Catholic University of Chile
 
-This is a clean and simple Jekyll Theme built with the [Bulma](https://bulma.io/) framework, providing a modern-looking site to start with. 
+## Research Papers
+1. [Proposal for an Autonomous Qualifying Commission for the Chilean Labor Insurance System](https://doi.org/10.38178/07183089/2154220112)  
+with Marcos Singer. 2023. In Spanish.
+Estudios Públicos, (169), 121-153.
 
-The theme uses [Alpine.js](https://github.com/alpinejs/alpine) for its interactive components, such as mobile navbar and notifications.
+## Working Papers
+1. [Determinants of the adoption of air conditioning systems: an application to Chile's Wood-Burning Heaters Replacement Program](https://fco-olivares.github.io/wp/adoption_acs.pdf)  
+with Aracelly Zárate, Fernando Vera and Elizabeth Saenz. 2023.
+2. [Lessons Learned from Chile's Wood-Burning Heaters Replacement Program](https://fco-olivares.github.io/wp/cs_heaters.pdf)  
+with Elizabeth Saenz, Giselle Astudillo and Víctor Muñoz. 2023.
+Under review in Case Studies in the Environment.
+3. [Occupational safety climate as a COVID-19 mitigant: a dynamic fractional response panel analysis](https://fco-olivares.github.io/wp/sc_covid.pdf)  
+with Marcos Singer. 2022.
 
-## Contents
+## Academic Papers
+1. [The evolution of macroprudential policy use in Chile](https://fco-olivares.github.io/ap/mp_chile.pdf)  
+with Carlos Madeira. 2021.  
+Mimeo, Central Bank of Chile.
+2. [Non-bank financial intermediary as a provider of financing to the banking system: a DSGE model](https://fco-olivares.github.io/ap/nbfi_dsge.pdf)  
+Thesis to obtain the Master's degree. 2021. In Spanish.  
 
-* [Installation](#installation)
-* [Documentation](#documentation)
-* [Contributing](#contributing)
-* [Development](#development)
-* [Licence](#licence)
+## Columns
+1. [A second wage for Chile](https://fco-olivares.github.io/nc/C_ssSQM_LS.pdf)  
+with Marcos Singer. 2023. In Spanish.  
+Published in the newspaper La Segunda. 28 March 2023. Page 11.
+2. [Sharing the lithium boom](https://fco-olivares.github.io/nc/C_cblSQM_LS.pdf)  
+with Marcos Singer. 2023. In Spanish.  
+Published in the newspaper La Segunda. 25 April 2023. Page 9.
 
-
-## Installation
-
-Add this line to your Jekyll site's `Gemfile`:
-
-```ruby
-gem "bulma-clean-theme"
-```
-
-And add this line to your Jekyll site's `_config.yml`:
-
-```yaml
-theme: bulma-clean-theme
-```
-
-If you are deploying to GitHub pages, then you can also install the [GitHub Pages gem](https://github.com/github/pages-gem) and use `remote_theme` instead of `theme` in your `_config.yml`. **Note that the GitHub Pages gem requires Jekyll version 3.9.**
-
-```yaml
-# With GitHub Pages Gem
-remote_theme: chrisrhymes/bulma-clean-theme
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install bulma-clean-theme
-
-## Documentation
-
-Check out the demo site for the [Documentation](https://www.csrhymes.com/bulma-clean-theme/docs/)
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/chrisrhymes/bulma-clean-theme. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-Your theme is set up just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 

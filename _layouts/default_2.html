@@ -14,18 +14,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
     {% include head-custom.html %}
-
   </head>
   <body>
 
       <header>
 	<h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
-	
-	<ul>
-	<a href="{{ site.english }}" class="button fork"><strong>En</strong></a></li>
-	</ul>
       </header>
+
+      <div id="banner">
+        <a href="{{https://fco-olivares.github.io/}}" class="button fork"><strong>Es</strong></a>
+      </div><!-- end banner -->
 
     <div class="wrapper">
       <nav>
