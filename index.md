@@ -55,9 +55,13 @@ Mimeo, Central Bank of Chile.
 Tesis para optar al grado de Máster. 2021.  
 
 ## Investigaciones en desarrollo
-1. **¿Cómo maximizar la recaudación del gobierno con la Estrategia Nacional del Litio?”.  
+1. **¿Cómo maximizar la recaudación del gobierno con la Estrategia Nacional del Litio?**  
 Con Gustavo Lagos y Marcos Singer.
-2. **Adoption of cleaner technologies and its impact on health”.  
+2. **Adoption of cleaner technologies and its impact on health**  
 Con Nano Barahona, Francisco Gallego, Juan Pablo Montero, Marcos Singer y Sebastián Figari.
-3. **Analysis of the economic effects caused by the modifications to the Chilean lithium industry contracts in 2017 and 2018”.  
+3. **Analysis of the economic effects caused by the modifications to the Chilean lithium industry contracts in 2017 and 2018**  
 Con Marcos Singer.
+
+## Fondos concursables obtenidos
+1. **Net Zero Research Fund 2022 of Scotiabank"  
+Financiamiento para investigación "Adoption of cleaner technologies and its impact on health".
