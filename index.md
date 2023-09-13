@@ -35,6 +35,10 @@ Publicado en el periódico La Segunda. 25 de abril de 2023. Página 9.
 con Marcos Singer. 2023. 
 Publicado en el periódico La Segunda. 28 de marzo de 2023. Página 11.
 
+## Presentaciones
+1.**Modelo de estimación de costos y producción de potenciales proyectos de extracción de litio en Chile**  
+Presentación ante la Coordinación Microeconómica y la Coordinación de Políticas Tributarias del Ministerio de Hacienda de Chile. 7 de septiembre de 2023.
+
 ## Artículos de investigación
 1. [**Propuesta de comisión calificadora autónoma para el seguro laboral chileno**](https://doi.org/10.38178/07183089/2154220112)  
 con Marcos Singer. 2023.
