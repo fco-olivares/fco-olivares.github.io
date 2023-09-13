@@ -36,7 +36,7 @@ con Marcos Singer. 2023.
 Publicado en el periódico La Segunda. 28 de marzo de 2023. Página 11.
 
 ## Presentaciones
-1.**Modelo de estimación de costos y producción de potenciales proyectos de extracción de litio en Chile**  
+1. **Modelo de estimación de costos y producción de potenciales proyectos de extracción de litio en Chile**  
 Presentación ante la Coordinación Microeconómica y la Coordinación de Políticas Tributarias del Ministerio de Hacienda de Chile. 7 de septiembre de 2023.
 
 ## Artículos de investigación
