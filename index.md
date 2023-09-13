@@ -62,6 +62,6 @@ Con Nano Barahona, Francisco Gallego, Juan Pablo Montero, Marcos Singer y Sebast
 3. **Analysis of the economic effects caused by the modifications to the Chilean lithium industry contracts in 2017 and 2018**  
 Con Marcos Singer.
 
-## Fondos concursables obtenidos
-1. **Net Zero Research Fund 2022 of Scotiabank"  
+## Fondos concursables
+1. **Net Zero Research Fund 2022 of Scotiabank**  
 Financiamiento para investigación "Adoption of cleaner technologies and its impact on health".
