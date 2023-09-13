@@ -1,8 +1,8 @@
 ## Experiencia profesional
 **SQM** (Feb.2023 – actualidad)  
 >Consultor externo:  
->>Análisis económico de la industria del litio nacional y mundial. 
->>Propuestas de políticas públicas para el desarrollo de la industria del litio nacional. 
+>\- Análisis económico de la industria del litio nacional y mundial.  
+>\- Propuestas de políticas públicas para el desarrollo de la industria del litio nacional. 
 
 **Pontificia Universidad Católica de Chile** (Mar.2018 – actualidad)  
 >Ayudante en cursos de pregrado y postgrado relacionados a economía, ciencia de datos y finanzas de la Facultad de Economía y Administración de la universidad. 
