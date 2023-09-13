@@ -1,3 +1,43 @@
+## Experiencia profesional
+**SQM**
+Feb.2023 – actualidad
+- Consultor externo:
+	• Análisis económico de la industria del litio nacional y mundial. 
+	• Propuestas de políticas públicas para el desarrollo de la industria del litio nacional. 
+
+**Pontificia Universidad Católica de Chile**
+Mar.2018 – actualidad 
+- Ayudante en cursos de pregrado y postgrado relacionados a economía, ciencia de datos y finanzas de la Facultad de Economía y Administración de la universidad. 
+
+**Caja Los Andes**
+Ene.2023 – jun.2023
+- Consultor externo en Gerencia Corporativa de Riesgo:
+	• Desarrollo de modelo predictivo para estimar el riesgo de la cartera de créditos. 
+	• Análisis del impacto financiero de propuesta de cambio de normativa de reprogramación de créditos de la institución. 
+
+**DUOC UC**
+Jul.2022 – abr.2023 
+- Investigador asociado:
+	• Liderar y desarrollar investigaciones económicas relacionadas con el recambio de calefactores a leña en Chile. 
+	• Elaborar cápsulas educativas para académicos de la institución relacionadas con la escritura de trabajos científicos y el análisis de datos. 
+
+**Cámara Chilena de la Construcción**
+Ene.2021 – dic.2021 
+- Analista en proyecto “Compromiso Sanitario COVID-19”:
+	• Análisis de información reportada por obras de construcción y creación de reportes semanales para ministerios. 
+	• Desarrollo de algoritmo y geolocalización de obras para priorizar y facilitar fiscalizaciones. 
+
+**Asociación Chilena de Seguridad**
+Mar.2021 – ago.2021
+- Consultor en proyecto "Modelo de Calificación y Atención de Enfermedades Laborales":
+	• Creación de propuesta de gestión alternativa del sistema de salud laboral chileno. 
+	• Análisis económico del impacto en salud de la gestión del sistema de salud laboral vigente. 
+
+**Banco Central de Chile**
+Ene.2021 – jul.2021
+- Practicante en Departamento de Modelación Macrofinanciera. 
+
+
 ## Artículos de investigación
 1. [**Propuesta de comisión calificadora autónoma para el seguro laboral chileno**](https://doi.org/10.38178/07183089/2154220112)  
 con Marcos Singer. 2023.
