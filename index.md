@@ -41,25 +41,22 @@ Practicante en Departamento de Modelación Macrofinanciera.
 
 ## Publicaciones en en prensa
 1. [**Listas de espera: El rol clave de la atención primaria en los prestadores privados**](https://fco-olivares.github.io/nc/C_especialistas_EM.pdf)  
-con Marcos Singer. 2024.  
+con Marcos Singer. 
 Publicado en el periódico El Mercurio. 24 de agosto de 2024. Página A2.
-2. [**¿Y si medimos el litio en hospitales?**](https://fco-olivares.github.io/nc/C_litiohospitales_DF.pdf)  
-2024.  
+2. [**¿Y si medimos el litio en hospitales?**](https://fco-olivares.github.io/nc/C_litiohospitales_DF.pdf)    
 Publicado en el periódico Diario Financiero. 28 de mayo de 2024.
-3. [**Cuando el crimen organizado se vuelve una empresa**](https://fco-olivares.github.io/nc/C_crimenTM_EM.pdf)  
-2024.  
+3. [**Cuando el crimen organizado se vuelve una empresa**](https://fco-olivares.github.io/nc/C_crimenTM_EM.pdf)    
 Publicado en el periódico El Mercurio. 04 de febrero de 2024. Página B8.
 4. [**Futuro del tipo de cambio: ¿Regresaremos a los 700 pesos?**](https://fco-olivares.github.io/nc/C_dolarTM_EM.pdf)  
-2023. 
 Publicado en el periódico El Mercurio. 14 de enero de 2024. Página B6.
 5. [**¿Cómo maximizar la recaudación del litio?**](https://fco-olivares.github.io/nc/C_maxrecSQM_EM.pdf)  
-con Gustavo Lagos y Marcos Singer. 2023.  
+con Gustavo Lagos y Marcos Singer.  
 Publicado en el periódico El Mercurio. 29 de julio de 2023. Página A2.
 6. [**Compartiendo la bonanza del litio**](https://fco-olivares.github.io/nc/C_cblSQM_LS.pdf)  
-con Marcos Singer. 2023.  
+con Marcos Singer. 
 Publicado en el periódico La Segunda. 25 de abril de 2023. Página 9.
 7. [**Un segundo sueldo para Chile**](https://fco-olivares.github.io/nc/C_ssSQM_LS.pdf)  
-con Marcos Singer. 2023. 
+con Marcos Singer. 
 Publicado en el periódico La Segunda. 28 de marzo de 2023. Página 11.
 
 ## Presentaciones
