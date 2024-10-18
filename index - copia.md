@@ -1,41 +1,45 @@
 ## Educación
 1. **Doctorado en Economía** (2024 – actualidad)  
 Pontificia Universidad Católica de Chile.
-2. **Magíster en Economía Aplicada - Mención Macroeconomía** (2021)  
+2. **Magíster en Ciencias de Datos** (2024 – actualidad)  
 Pontificia Universidad Católica de Chile.
-3. **Ingeniería Comercial - Mención Economía** (2016 – 2021)  
+3. **Magíster en Economía Aplicada - Mención Macroeconomía** (2021)  
+Pontificia Universidad Católica de Chile.
+4. **Ingeniería Comercial - Mención Economía** (2016 – 2021)  
 Pontificia Universidad Católica de Chile.
 
 ## Experiencia profesional
-1. **MBA Pontificia Universidad Católica de Chile** (Sept.2023 – dic.2023)  
+1. **Juicio Transvip contra Cabify y Sociedad Concesionaria Nueva Pudahuel** (Feb.2024 – jul.2024)  
+Experto técnico en "Informe técnico de la importancia de la información privada de Transvip en la Licitación de Servicios de Trasnporte Público mediante minibuses en el Aeropuerto de Santiago".
+2. **MBA Pontificia Universidad Católica de Chile** (Sept.2023 – dic.2023)  
 Científico de datos:  
 \- Extracción de información web (webscraping) de perfiles de LinkedIn.  
-2. **SQM** (Feb.2023 – oct.2023)  
+3. **SQM** (Feb.2023 – oct.2023)  
 Consultor externo:  
 \- Análisis económico de la industria del litio nacional y mundial.  
 \- Propuestas de políticas públicas para el desarrollo de la industria del litio nacional. 
-3. **Pontificia Universidad Católica de Chile** (Mar.2018 – actualidad)  
+4. **Pontificia Universidad Católica de Chile** (Mar.2018 – actualidad)  
 Ayudante en cursos de pregrado y postgrado relacionados a economía, ciencia de datos y finanzas de la Facultad de Economía y Administración de la universidad. 
-4. **Caja Los Andes** (Ene.2023 – jun.2023)  
+5. **Caja Los Andes** (Ene.2023 – jun.2023)  
 Consultor externo en Gerencia Corporativa de Riesgo:  
 \- Desarrollo de modelo predictivo para estimar el riesgo de la cartera de créditos.  
 \- Análisis del impacto financiero de propuesta de cambio de normativa de reprogramación de créditos de la institución. 
-5. **DUOC UC** (Jul.2022 – abr.2023)  
+6. **DUOC UC** (Jul.2022 – abr.2023)  
 Investigador asociado:  
 \- Liderar y desarrollar investigaciones económicas relacionadas con el recambio de calefactores a leña en Chile.  
 \- Elaborar cápsulas educativas para académicos de la institución relacionadas con la escritura de trabajos científicos y el análisis de datos. 
-6. **Cámara Chilena de la Construcción** (Ene.2021 – dic.2021)  
+7. **Cámara Chilena de la Construcción** (Ene.2021 – dic.2021)  
 Analista en proyecto “Compromiso Sanitario COVID-19”:  
 \- Análisis de información reportada por obras de construcción y creación de reportes semanales para ministerios.  
 \- Desarrollo de algoritmo y geolocalización de obras para priorizar y facilitar fiscalizaciones. 
-7. **Asociación Chilena de Seguridad** (Mar.2021 – ago.2021)  
+8. **Asociación Chilena de Seguridad** (Mar.2021 – ago.2021)  
 Consultor en proyecto "Modelo de Calificación y Atención de Enfermedades Laborales":  
 \- Creación de propuesta de gestión alternativa del sistema de salud laboral chileno.  
 \- Análisis económico del impacto en salud de la gestión del sistema de salud laboral vigente. 
-8. **Banco Central de Chile** (Ene.2021 – jul.2021)  
+9. **Banco Central de Chile** (Ene.2021 – jul.2021)  
 Practicante en Departamento de Modelación Macrofinanciera. 
 
-## Publicaciones en prensa
+## Publicaciones en en prensa
 1. [**Listas de espera: El rol clave de la atención primaria en los prestadores privados**](https://fco-olivares.github.io/nc/C_especialistas_EM.pdf)  
 con Marcos Singer.  
 Publicado en el periódico El Mercurio. 24 de agosto de 2024. Página A2.
