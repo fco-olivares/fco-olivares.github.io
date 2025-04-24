@@ -11,17 +11,17 @@ Pontificia Universidad Católica de Chile.
 ## Experiencia profesional
 1. **Compañía de Cervecerías Unidas** (2024-2025)  
 Consultor externo:  
-\- Análisis económico del modelo emprendedor de CCU, con evaluación cuantitativa de productividad, calidad de servicio y comportamiento laboral de conductores.
+\- Análisis económico del modelo emprendedor de CCU, con evaluación cuantitativa de productividad, calidad de servicio y comportamiento laboral de conductores.  
 \- Diagnóstico cualitativo del modelo emprendedor mediante entrevistas en profundidad a conductores y transportistas, identificando factores que afectan la calidad del servicio y las dinámicas operacionales.
 2. **Pontificia Universidad Católica de Chile** (2018 – 2025)  
 \- Ayudante de cátedra en cursos de economía y finanzas de pregrado y postgrado. 
 3. **Asociación Chilena de Seguridad** (2024)  
 Consultor externo:  
-\- Evaluación comprensiva del Programa de Salud No Laboral a través de metodología cuasiexperimental, analizando sus efectos sobre acceso, calidad de atención y complementariedad con prestadores tradicionales. 
+\- Evaluación comprensiva del Programa de Salud No Laboral a través de metodología cuasiexperimental, analizando sus efectos sobre acceso, calidad de atención y complementariedad con prestadores tradicionales.  
 \- Desarrollo de simulaciones para evaluar el impacto potencial del modelo de alta resolutividad primaria en las listas de espera por especialidades, formulándose recomendaciones de política pública para el sistema de salud.
 4. **Transvip** (2024)  
 Experto técnico independiente:  
-\- Análisis económico sobre efecto del uso de información confidencial en la competencia en licitaciones públicas.
+\- Análisis económico sobre efecto del uso de información confidencial en la competencia en licitaciones públicas.  
 \- Recolección de evidencia técnica sobre secuencias temporales y comportamiento estratégico que revelaron conductas orientadas al desvío de clientela.
 5. **MBA Pontificia Universidad Católica de Chile** (2023)  
 Científico de datos:  
