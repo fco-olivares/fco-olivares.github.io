@@ -76,12 +76,12 @@ Presentación ante el Comité del Litio y Salares del Gobierno de Chile. 2 de oc
 Presentación ante la Coordinación Microeconómica y la Coordinación de Políticas Tributarias del Ministerio de Hacienda de Chile. 7 de septiembre de 2023.
 
 ## Artículos de investigación
-1. [**How to maximize the Chilean government's revenue with the National Lithium Strategy?**]   
-Con Gustavo Lagos y Marcos Singer. 2025.
-Resources Policy. Forthcoming.
+1. **How to maximize the Chilean government's revenue with the National Lithium Strategy?**   
+Con Gustavo Lagos y Marcos Singer. 2025.  
+Resources Policy. Forthcoming.  
 2. [**Propuesta de comisión calificadora autónoma para el seguro laboral chileno**](https://doi.org/10.38178/07183089/2154220112)  
-con Marcos Singer. 2023.
-Estudios Públicos, (169), 121-153.
+con Marcos Singer. 2023.  
+Estudios Públicos, (169), 121-153.  
 
 ## Documentos de trabajo
 1. [**Determinants of the adoption of air conditioning systems: an application to Chile's Wood-Burning Heaters Replacement Program**](https://fco-olivares.github.io/wp/adoption_acs.pdf)  
