@@ -1,38 +1,52 @@
 ## Educación
 1. **Doctorado en Economía** (2024 – actualidad)  
 Pontificia Universidad Católica de Chile.
-2. **Magíster en Economía Aplicada - Mención Macroeconomía** (2021)  
+2. **Magíster en Ciencias de Datos** (2024 – actualidad)  
 Pontificia Universidad Católica de Chile.
-3. **Ingeniería Comercial - Mención Economía** (2016 – 2021)  
+3. **Magíster en Economía Aplicada - Mención Macroeconomía** (2021)  
+Pontificia Universidad Católica de Chile.
+4. **Ingeniería Comercial - Mención Economía** (2016 – 2021)  
 Pontificia Universidad Católica de Chile.
 
 ## Experiencia profesional
-1. **MBA Pontificia Universidad Católica de Chile** (Sept.2023 – dic.2023)  
+1. **Compañía de Cervecerías Unidas** (2024-2025)  
+Consultor externo:  
+\- Análisis económico del modelo emprendedor de CCU, con evaluación cuantitativa de productividad, calidad de servicio y comportamiento laboral de conductores.
+\- Diagnóstico cualitativo del modelo emprendedor mediante entrevistas en profundidad a conductores y transportistas, identificando factores que afectan la calidad del servicio y las dinámicas operacionales.
+2. **Pontificia Universidad Católica de Chile** (2018 – 2025)  
+\- Ayudante de cátedra en cursos de economía y finanzas de pregrado y postgrado. 
+3. **Asociación Chilena de Seguridad** (2024)  
+Consultor externo:  
+\- Evaluación comprensiva del Programa de Salud No Laboral a través de metodología cuasiexperimental, analizando sus efectos sobre acceso, calidad de atención y complementariedad con prestadores tradicionales. 
+\- Desarrollo de simulaciones para evaluar el impacto potencial del modelo de alta resolutividad primaria en las listas de espera por especialidades, formulándose recomendaciones de política pública para el sistema de salud.
+4. **Transvip** (2024)  
+Experto técnico independiente:  
+\- Análisis económico sobre efecto del uso de información confidencial en la competencia en licitaciones públicas.
+\- Recolección de evidencia técnica sobre secuencias temporales y comportamiento estratégico que revelaron conductas orientadas al desvío de clientela.
+5. **MBA Pontificia Universidad Católica de Chile** (2023)  
 Científico de datos:  
-\- Extracción de información web (webscraping) de perfiles de LinkedIn.  
-2. **SQM** (Feb.2023 – oct.2023)  
+\- Extracción de información web (webscraping) de perfiles de LinkedIn. 
+6. **SQM** (2023)  
 Consultor externo:  
 \- Análisis económico de la industria del litio nacional y mundial.  
-\- Propuestas de políticas públicas para el desarrollo de la industria del litio nacional. 
-3. **Pontificia Universidad Católica de Chile** (Mar.2018 – actualidad)  
-Ayudante en cursos de pregrado y postgrado relacionados a economía, ciencia de datos y finanzas de la Facultad de Economía y Administración de la universidad. 
-4. **Caja Los Andes** (Ene.2023 – jun.2023)  
+\- Propuestas de políticas públicas para el desarrollo de la industria del litio nacional.  
+7. **Caja Los Andes** (2023)  
 Consultor externo en Gerencia Corporativa de Riesgo:  
 \- Desarrollo de modelo predictivo para estimar el riesgo de la cartera de créditos.  
 \- Análisis del impacto financiero de propuesta de cambio de normativa de reprogramación de créditos de la institución. 
-5. **DUOC UC** (Jul.2022 – abr.2023)  
+8. **DUOC UC** (2022 – 2023)  
 Investigador asociado:  
 \- Liderar y desarrollar investigaciones económicas relacionadas con el recambio de calefactores a leña en Chile.  
 \- Elaborar cápsulas educativas para académicos de la institución relacionadas con la escritura de trabajos científicos y el análisis de datos. 
-6. **Cámara Chilena de la Construcción** (Ene.2021 – dic.2021)  
-Analista en proyecto “Compromiso Sanitario COVID-19”:  
-\- Análisis de información reportada por obras de construcción y creación de reportes semanales para ministerios.  
+9. **Cámara Chilena de la Construcción** (2021)  
+Científico de datos:  
+\- Análisis de información sobre casos de COVID-19 reportada por obras de construcción y creación de reportes semanales para ministerios.  
 \- Desarrollo de algoritmo y geolocalización de obras para priorizar y facilitar fiscalizaciones. 
-7. **Asociación Chilena de Seguridad** (Mar.2021 – ago.2021)  
-Consultor en proyecto "Modelo de Calificación y Atención de Enfermedades Laborales":  
-\- Creación de propuesta de gestión alternativa del sistema de salud laboral chileno.  
+10. **Asociación Chilena de Seguridad** (2021)  
+Consultor externo:  
+\- Creación de propuesta de gestión alternativa de la calificación de enfermedades laborales del sistema de salud laboral chileno.  
 \- Análisis económico del impacto en salud de la gestión del sistema de salud laboral vigente. 
-8. **Banco Central de Chile** (Ene.2021 – jul.2021)  
+11. **Banco Central de Chile** (2021)  
 Practicante en Departamento de Modelación Macrofinanciera. 
 
 ## Publicaciones en prensa
