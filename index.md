@@ -76,29 +76,30 @@ Presentación ante el Comité del Litio y Salares del Gobierno de Chile. 2 de oc
 Presentación ante la Coordinación Microeconómica y la Coordinación de Políticas Tributarias del Ministerio de Hacienda de Chile. 7 de septiembre de 2023.
 
 ## Artículos de investigación
+1. [**How to maximize the Chilean government's revenue with the National Lithium Strategy?**]   
+Con Gustavo Lagos y Marcos Singer. 2025.
+Resources Policy. Forthcoming.
 1. [**Propuesta de comisión calificadora autónoma para el seguro laboral chileno**](https://doi.org/10.38178/07183089/2154220112)  
 con Marcos Singer. 2023.
 Estudios Públicos, (169), 121-153.
 
 ## Documentos de trabajo
-1. [**¿Cómo maximizar la recaudación del gobierno con la Estrategia Nacional del Litio?**](https://fco-olivares.github.io/wp/laffer_lithium.pdf)    
-Con Gustavo Lagos y Marcos Singer. 2024
-2. [**Determinants of the adoption of air conditioning systems: an application to Chile's Wood-Burning Heaters Replacement Program**](https://fco-olivares.github.io/wp/adoption_acs.pdf)  
+1. [**Determinants of the adoption of air conditioning systems: an application to Chile's Wood-Burning Heaters Replacement Program**](https://fco-olivares.github.io/wp/adoption_acs.pdf)  
 con Aracelly Zárate, Fernando Vera y Elizabeth Saenz. 2023.
-3. [**Lessons Learned from Chile's Wood-Burning Heaters Replacement Program**](https://fco-olivares.github.io/wp/cs_heaters.pdf)  
+2. [**Lessons Learned from Chile's Wood-Burning Heaters Replacement Program**](https://fco-olivares.github.io/wp/cs_heaters.pdf)  
 con Elizabeth Saenz, Giselle Astudillo y Víctor Muñoz. 2023.  
 Revise and resubmit in Case Studies in the Environment.
-4. [**Occupational safety climate as a COVID-19 mitigant: a dynamic fractional response panel analysis**](https://fco-olivares.github.io/wp/sc_covid.pdf)  
+3. [**Occupational safety climate as a COVID-19 mitigant: a dynamic fractional response panel analysis**](https://fco-olivares.github.io/wp/sc_covid.pdf)  
 con Marcos Singer. 2022.
-5. [**The evolution of macroprudential policy use in Chile**](https://fco-olivares.github.io/ap/mp_chile.pdf)  
+4. [**The evolution of macroprudential policy use in Chile**](https://fco-olivares.github.io/ap/mp_chile.pdf)  
 con Carlos Madeira. 2021.  
 Mimeo, Central Bank of Chile.
-6. [**Intermediario financiero no bancario como proveedor de financiamiento al sistema bancario: un modelo DSGE**](https://fco-olivares.github.io/ap/nbfi_dsge.pdf)  
+5. [**Intermediario financiero no bancario como proveedor de financiamiento al sistema bancario: un modelo DSGE**](https://fco-olivares.github.io/ap/nbfi_dsge.pdf)  
 Tesis para optar al grado de Máster. 2021.  
 
 ## Investigaciones en desarrollo
 1. **Adoption of cleaner technologies and its impact on health**  
-Con Nano Barahona, Francisco Gallego, Juan Pablo Montero, Marcos Singer y Sebastián Figari.
+Con Nano Barahona, Sebastián Figari, Francisco Gallego, Juan Pablo Montero y Marcos Singer.
 
 ## Fondos concursables
 1. **Net Zero Research Fund 2022 of Scotiabank**  
