@@ -79,7 +79,7 @@ Presentación ante la Coordinación Microeconómica y la Coordinación de Polít
 1. [**How to maximize the Chilean government's revenue with the National Lithium Strategy?**]   
 Con Gustavo Lagos y Marcos Singer. 2025.
 Resources Policy. Forthcoming.
-1. [**Propuesta de comisión calificadora autónoma para el seguro laboral chileno**](https://doi.org/10.38178/07183089/2154220112)  
+2. [**Propuesta de comisión calificadora autónoma para el seguro laboral chileno**](https://doi.org/10.38178/07183089/2154220112)  
 con Marcos Singer. 2023.
 Estudios Públicos, (169), 121-153.
 
