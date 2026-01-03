@@ -50,22 +50,30 @@ Consultor externo:
 Practicante en Departamento de Modelación Macrofinanciera. 
 
 ## Publicaciones en prensa
-1. [**Listas de espera: El rol clave de la atención primaria en los prestadores privados**](https://fco-olivares.github.io/nc/C_especialistas_EM.pdf)  
+1. [**Por publicar**](https://fco-olivares.github.io/nc/C_especialistas_EM.pdf)  
+con Gustavo Lagos y Marcos Singer.  
+Publicado en el periódico La Tercera. 03 de enero de 2025. Página A2.
+2. [**Más de US$ 500 millones podría recibir Codelco por los ingresos en 2025 de la firma conjunta con SQM**](https://fco-olivares.github.io/nc/M_novaandino_EM.pdf)   
+Mención en el periódico El Mercurio. 29 de diciembre de 2025. Página B1.
+3. [**El trabajo que heredamos**](https://fco-olivares.github.io/nc/C_trabajo_LS.pdf)  
+con Alejandra Inostroza, Alexandre Janiak, Jeanne Lafortune y Johannes Rehner.  
+Publicado en el periódico La Segunda. 18 de noviembre de 2025. Página 9.
+4. [**Listas de espera: El rol clave de la atención primaria en los prestadores privados**](https://fco-olivares.github.io/nc/C_especialistas_EM.pdf)  
 con Marcos Singer.  
 Publicado en el periódico El Mercurio. 24 de agosto de 2024. Página A2.
-2. [**¿Y si medimos el litio en hospitales?**](https://fco-olivares.github.io/nc/C_litiohospitales_DF.pdf)    
+5. [**¿Y si medimos el litio en hospitales?**](https://fco-olivares.github.io/nc/C_litiohospitales_DF.pdf)    
 Publicado en el periódico Diario Financiero. 28 de mayo de 2024.
-3. [**Cuando el crimen organizado se vuelve una empresa**](https://fco-olivares.github.io/nc/C_crimenTM_EM.pdf)    
+6. [**Cuando el crimen organizado se vuelve una empresa**](https://fco-olivares.github.io/nc/C_crimenTM_EM.pdf)    
 Publicado en el periódico El Mercurio. 04 de febrero de 2024. Página B8.
-4. [**Futuro del tipo de cambio: ¿Regresaremos a los 700 pesos?**](https://fco-olivares.github.io/nc/C_dolarTM_EM.pdf)  
+7. [**Futuro del tipo de cambio: ¿Regresaremos a los 700 pesos?**](https://fco-olivares.github.io/nc/C_dolarTM_EM.pdf)  
 Publicado en el periódico El Mercurio. 14 de enero de 2024. Página B6.
-5. [**¿Cómo maximizar la recaudación del litio?**](https://fco-olivares.github.io/nc/C_maxrecSQM_EM.pdf)  
+8. [**¿Cómo maximizar la recaudación del litio?**](https://fco-olivares.github.io/nc/C_maxrecSQM_EM.pdf)  
 con Gustavo Lagos y Marcos Singer.  
 Publicado en el periódico El Mercurio. 29 de julio de 2023. Página A2.
-6. [**Compartiendo la bonanza del litio**](https://fco-olivares.github.io/nc/C_cblSQM_LS.pdf)  
+9. [**Compartiendo la bonanza del litio**](https://fco-olivares.github.io/nc/C_cblSQM_LS.pdf)  
 con Marcos Singer.  
 Publicado en el periódico La Segunda. 25 de abril de 2023. Página 9.
-7. [**Un segundo sueldo para Chile**](https://fco-olivares.github.io/nc/C_ssSQM_LS.pdf)  
+10. [**Un segundo sueldo para Chile**](https://fco-olivares.github.io/nc/C_ssSQM_LS.pdf)  
 con Marcos Singer.  
 Publicado en el periódico La Segunda. 28 de marzo de 2023. Página 11.
 
@@ -76,9 +84,9 @@ Presentación ante el Comité del Litio y Salares del Gobierno de Chile. 2 de oc
 Presentación ante la Coordinación Microeconómica y la Coordinación de Políticas Tributarias del Ministerio de Hacienda de Chile. 7 de septiembre de 2023.
 
 ## Artículos de investigación
-1. **How to maximize the Chilean government's revenue with the National Lithium Strategy?**   
+1. [**How to maximize the Chilean government's revenue with the National Lithium Strategy?**](https://doi.org/10.1016/j.resourpol.2025.105600)     
 Con Gustavo Lagos y Marcos Singer. 2025.  
-Resources Policy. Forthcoming.  
+Resources Policy, 105, 105600.  
 2. [**Propuesta de comisión calificadora autónoma para el seguro laboral chileno**](https://doi.org/10.38178/07183089/2154220112)  
 con Marcos Singer. 2023.  
 Estudios Públicos, (169), 121-153.  
