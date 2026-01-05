@@ -50,9 +50,9 @@ Consultor externo:
 Practicante en Departamento de Modelación Macrofinanciera. 
 
 ## Publicaciones en prensa
-1. [**Por publicar**](https://fco-olivares.github.io/nc/C_especialistas_EM.pdf)  
+1. [**Codelco-SQM: Negociación directa vs. Licitación**](https://fco-olivares.github.io/nc/C_negociacionlicitacion_LT.pdf)  
 con Gustavo Lagos y Marcos Singer.  
-Publicado en el periódico La Tercera. 03 de enero de 2025. Página A2.
+Publicado en el periódico La Tercera. 04 de enero de 2025. Página 4.
 2. [**Más de US$ 500 millones podría recibir Codelco por los ingresos en 2025 de la firma conjunta con SQM**](https://fco-olivares.github.io/nc/M_novaandino_EM.pdf)   
 Mención en el periódico El Mercurio. 29 de diciembre de 2025. Página B1.
 3. [**El trabajo que heredamos**](https://fco-olivares.github.io/nc/C_trabajo_LS.pdf)  
